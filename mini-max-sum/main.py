@@ -13,7 +13,7 @@ import sys
 #
 
 def miniMaxSum(arr):
-    # Write your code here
+    print("Do Somethinf")
 
 if __name__ == '__main__':
     arr = list(map(int, input().rstrip().split()))
